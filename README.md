@@ -18,7 +18,7 @@ This analysis retrieves and summarizes temperature data for the months of June a
 
 ## Summary
 
-### Conclusi
+### Conclusion
 
 There is not a significant difference in temperature in Oahu in June and December. We could also compare precipitaion data in the two months. It may also be helpful to compare
 precipitation data versus temperature to find days that are both warm and dry.
